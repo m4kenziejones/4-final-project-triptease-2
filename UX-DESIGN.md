@@ -1,14 +1,20 @@
 # User Experience Design
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+## App map and Wireframe
 
-Replace the contents of this file with the completed assignments, as described in:
+### App map
+![app-map](ux-design/app-map.png)
 
-- [app map & wireframe instructions](instructions-0a-app-map-wireframes.md).
-- [prototype instructions](instructions-0b-prototyping.md)
+### Wireframe
+![alt text](ux-design/wireframe-png/all-my-trips.png)
+* Title: All my trips
+* This is the main page of our app. Users begin using the app with this page. It has a list of all the upcoming trips, in the order of the earlist start date. 
+
+![alt text](ux-design/wireframe-png/trip-detail.png)
+* Title: Trip Detail
+* Users are able to see the detail information of the selected trip.
 
 
-Overwrite the contents of the UX-DESIGN.md document in your team's project repository with a new version that shows the app map and each of the wireframe diagrams.
 
 The diagrams must be displayed in a logical order and in a visual size that is easy to view when posted on GitHub.com.
 Make this document easy-to-read, with clear headings and sub-headings, and good formatting of text.
