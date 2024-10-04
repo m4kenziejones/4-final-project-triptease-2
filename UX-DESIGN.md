@@ -7,13 +7,20 @@
 
 ### Wireframe
 ![alt text](ux-design/wireframe-png/all-my-trips.png)
-* Title: All my trips
+* Title: All My Trips
 * This is the main page of our app. Users begin using the app with this page. It has a list of all the upcoming trips, in the order of the earlist start date. 
 
 ![alt text](ux-design/wireframe-png/trip-detail.png)
 * Title: Trip Detail
 * Users are able to see the detail information of the selected trip.
 
+![alt text](ux-design/wireframe-png/planning.png)
+* Title: Planning
+* A page where users add all their drafts of possible plans. They can have group members vote on the suggestions, as well as adding certain suggestions to the final plan.
+
+![alt text](ux-design/wireframe-png/create-trip.png)
+* Title: Create Trip
+* This is the page to create a new trip. Users need to fill required informations.
 
 
 The diagrams must be displayed in a logical order and in a visual size that is easy to view when posted on GitHub.com.
