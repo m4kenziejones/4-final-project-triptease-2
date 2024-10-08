@@ -16,7 +16,7 @@
 * Title: Trip Plans
 * Users are able to see the detail information of the selected trip.
 
-![alt text](ux-design/wireframe-png/Planning.png)
+![alt text](ux-design/wireframe-png/planning.png)
 * Title: Planning
 * A page where users add all their drafts of possible plans. They can have group members vote on the suggestions, as well as adding certain suggestions to the final plan.
 
