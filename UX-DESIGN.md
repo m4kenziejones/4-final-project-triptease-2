@@ -1,4 +1,5 @@
 # User Experience Design
+## [Prototype][https://www.figma.com/proto/jRMiVkZ56BUOCgAwpaiRPL/wireframe-and-prototype?page-id=30%3A39&node-id=36-85&node-type=frame&viewport=822%2C336%2C0.59&t=9XHM5kpDNNLp0oBv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A85]
 
 ## App map and Wireframe
 
@@ -6,15 +7,15 @@
 ![app-map](ux-design/app-map.png)
 
 ### Wireframe
-![alt text](ux-design/wireframe-png/all-my-trips.png)
+![alt text](ux-design/wireframe-png/My-Trips.png)
 * Title: All My Trips
 * This is the main page of our app. Users begin using the app with this page. It has a list of all the upcoming trips, in the order of the earlist start date. 
 
-![alt text](ux-design/wireframe-png/trip-detail.png)
-* Title: Trip Detail
+![alt text](ux-design/wireframe-png/Trip-Plans.png)
+* Title: Trip Plans
 * Users are able to see the detail information of the selected trip.
 
-![alt text](ux-design/wireframe-png/planning.png)
+![alt text](ux-design/wireframe-png/Planning.png)
 * Title: Planning
 * A page where users add all their drafts of possible plans. They can have group members vote on the suggestions, as well as adding certain suggestions to the final plan.
 
