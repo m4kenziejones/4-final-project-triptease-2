@@ -1,6 +1,5 @@
 # User Experience Design
-## [Prototype]
-* Click [Here](https://www.figma.com/proto/jRMiVkZ56BUOCgAwpaiRPL/wireframe-and-prototype?page-id=30%3A39&node-id=36-85&node-type=frame&viewport=822%2C336%2C0.59&t=9XHM5kpDNNLp0oBv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A85)
+## [Prototype](https://www.figma.com/proto/jRMiVkZ56BUOCgAwpaiRPL/wireframe-and-prototype?page-id=30%3A39&node-id=36-85&node-type=frame&viewport=822%2C336%2C0.59&t=9XHM5kpDNNLp0oBv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A85)
 
 ## App map and Wireframe
 
