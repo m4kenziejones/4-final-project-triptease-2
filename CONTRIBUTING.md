@@ -1,4 +1,5 @@
 ## CONTRIBUTING.md
+##
 ## Team Members
 - **Rena Wang**: [GitHub Profile](https://github.com/nomegustaexam)
 - **Shay Butler**: [GitHub Profile](https://github.com/hawk-2414)
