@@ -1,7 +1,7 @@
 # README.md TripTease Project Repository
 
 ## Project Description
-##
+
 **TripTease** is a travel planning app designed to simplify the journey of explorers around the globe. The app's primary focus is to provide an all-in-one platform where travelers can plan routes, collaborate with travel groups, share experiences, and make decisions based on community feedback.
 
 ## Product Vision Statement
